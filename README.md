@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Thamsanqa%20Hadebe&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Blockchain%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Thamsanqa%20Hadebe&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=8b949e" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+BhunganeCodes+%F0%9F%91%8B;Java+OOP+%26+Python+Developer;Blockchain+%26+Web3+Builder;Decentralized+Systems+Architect;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there%2C+I'm+BhunganeCodes+%F0%9F%91%8B;Aspiring+Data+Scientist+%26+ML+Engineer;Building+Intelligent+Systems+with+Python;Turning+Raw+Data+into+Real+Insights+%F0%9F%A7%A0;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views + Followers badges -->
 [![](https://visitcount.itsvg.in/api?id=BhunganeCodes&icon=2&color=6)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/BhunganeCodes?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/BhunganeCodes?style=social)
@@ -25,16 +24,19 @@
 name: Thamsanqa Hadebe
 alias: BhunganeCodes
 location: South Africa 🇿🇦
-currently_building:
-  - Decentralized Procurement/Tendering System (SA Tender Network)
-  - Java OOP Projects
-  - Python Fundamentals
+currently_learning:
+  - Java OOP & Python Fundamentals
+  - Machine Learning & Deep Learning
+  - Data Analysis & Visualisation
+goals:
+  - Become a professional Data Scientist / ML Engineer
+  - Build AI-powered real-world applications
+  - Contribute to open-source ML projects
 interests:
-  - Blockchain & Web3 Development
-  - Decentralized Systems
-  - Machine Learning & AI
-  - Full-Stack Engineering
-open_to: Collaborations, Open Source, Blockchain Projects
+  - Artificial Intelligence & Machine Learning
+  - Data Science & Analytics
+  - Full-Stack Development
+open_to: Collaborations, Internships, AI/ML Projects
 ```
 
 ---
@@ -55,14 +57,20 @@ open_to: Collaborations, Open Source, Blockchain Projects
 ## 💻 Tech Stack
 
 ### 🖥️ Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🤖 AI / Machine Learning / Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -71,19 +79,9 @@ open_to: Collaborations, Open Source, Blockchain Projects
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-
-### 🤖 AI / Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### ☁️ Cloud, DevOps & Hosting
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -148,7 +146,4 @@ open_to: Collaborations, Open Source, Blockchain Projects
 
 ---
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
